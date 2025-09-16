@@ -1,0 +1,14 @@
+{
+  "name": "Frequent Thikr",
+  "description": "Constantly pop a thikr for you",
+  "version": "1.0",
+  "manifest_version": 3,
+  "permissions": ["notifications"],
+  "background": {
+   "service_worker": "popup.js"
+  },
+  "action": {
+    "default_popup": "thikr.html",
+    "default_icon": "hand-drawn-flat-design-al-aqsa-illustration-free-vector.jpg"
+  }
+}
