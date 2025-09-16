@@ -1,1 +1,1 @@
-A chrome extension that sends a dhikr notification every ten minutes
+DM me any dhikr (on Discord: zyad_elkhewakh) to be added and share the ajr :)
