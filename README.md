@@ -1,2 +1,3 @@
-DM me any dhikr (on Discord: zyad_elkhewakh) to be added and share the ajr :) \n
+DM me any dhikr (on Discord: zyad_elkhewakh) to be added and share the ajr :)  
+
 Since I'm not going to be paying chrome 5$ to add this extension on the web store, if you want to use it just download the repo files in one folder then head to chrome -> manage extensions -> enable developer mode (top right corner) -> load unpacked and choose the folder you downloaded. 
