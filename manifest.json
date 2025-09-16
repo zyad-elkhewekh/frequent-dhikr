@@ -3,12 +3,12 @@
   "description": "Constantly pop a thikr for you",
   "version": "1.0",
   "manifest_version": 3,
-  "permissions": ["notifications"],
+  "permissions": ["notifications", "alarms"],
   "background": {
-   "service_worker": "popup.js"
+   "service_worker": "background.js"
   },
   "action": {
     "default_popup": "thikr.html",
-    "default_icon": "hand-drawn-flat-design-al-aqsa-illustration-free-vector.jpg"
+    "default_icon": "icon.jpg"
   }
 }
